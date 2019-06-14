@@ -1,2 +1,2 @@
 # repo-3
-third repo
+third repositry
